@@ -1,16 +1,41 @@
-## Hi there 👋
+# <div align="center">🚀 **Feri Ahmad Nurdin**</div>
 
-<!--
-**feriahmad/feriahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![DevOps Engineer | Site Reliability Engineer | Automation | Kubernetes | CI/CD]
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p><strong>Hey there!</strong> 👋 I'm a passionate SRE/DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
+</div>
+
+<br>
+
+## 💫 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+### What I Do
+🌩️ Cloud & Site Reliability Engineering
+    - High Availability Multi-Cloud Kubernetes (public & on-prem)
+    - Cost optimization (hingga 80% cloud saving)
+    - Traffic handling >80K rps tanpa downtime
+
+⚙️ DevOps & Automation
+    - CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins)
+    - GitOps (ArgoCD, FluxCD) & IaC (Terraform, Ansible)
+    - Vulnerability scanning & compliance (Trivy, Kyverno, KubeArmor)
+
+📊 Observability & Performance
+    - Monitoring (Prometheus, Grafana, ELK, New Relic)
+    - Load & stress testing (k6, InfluxDB)
+
+🛠 Infrastructure & Security
+    - VM & container orchestration (Kubernetes, RKE, Docker Swarm)
+    - Backup/restore K8s multi-DC, API Gateway (Kong)
+    - Secret management (Sealed Secrets, Vault)
+</td>
+<td width="50%">
