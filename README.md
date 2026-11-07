@@ -82,6 +82,8 @@ I automate everything and scale cloud infrastructure efficiently.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feriahmad&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feriahmad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feriahmad&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feriahmad&theme=tokyonight" alt="Top Languages" height="165"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=feriahmad&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
